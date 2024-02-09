@@ -5,7 +5,7 @@
 I love to build the Mobile app, and Website, webapp
 
 - 🚀 I use daily:
-  ![iOS](https://img.shields.io/badge/-iOS-black?style=plastic&logo=javascript)
+  ![JavaScrpit](https://img.shields.io/badge/-JavaScrpit-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
