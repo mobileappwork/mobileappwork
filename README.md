@@ -5,7 +5,7 @@
 
 ![I am a individual Full-Stack Developer.](https://www.digitalauthority.me/wp-content/uploads/2019/04/shutterstock_572886535.jpg)
 
-Jason loves to build the Mobile app, and Website, webapp
+Jason loves to build the Mobile app, Website, and webapp
 
 Jason has been developing apps for mobile devices for over 10 years. In that time I have collected a number of tools and skills to improve both the development speed and quality of the apps I create.
 
@@ -74,7 +74,7 @@ Users expect Mobile Apps to be faster and easier to use than Web Apps so that’
 ##
 
 <div align=center>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambuilder00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 <a href="#" title="Go to Source">
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=JasonSampMobile&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
