@@ -4,33 +4,12 @@
 
 I love to build the Mobile app, and Website, webapp
 
-- 🚀 I use daily:
-  ![JavaScrpit](https://img.shields.io/badge/-JavaScrpit-black?style=plastic&logo=javascript)
-  ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-- 💻 I work using:
-  ![Vue](https://img.shields.io/badge/-VueJS-4FC08D?logo=Vue.js&style=plastic&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&style=plastic)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=plastic)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=Bitbucket&style=plastic)
-  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-  ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  
+I have been developing apps for mobile devices for over 10 years. In that time I have collected a number of tools and skills to improve both the development speed and quality of the apps I create.
+
+My passion is improving user experience - developing apps that users will enjoy interacting with. This includes UI design, animated content, polished transitions, etc. With many apps requiring online services, I am also well-versed in various server-side technologies for user authentication, databases, analytics, and much more.
+
+Previous clients have been impressed by my excellent communication skills and ability to work consistently with little to no supervision.
+Users expect Mobile Apps to be faster and easier to use than Web Apps so that’s exactly what you’ll get.
 
 ##
 
