@@ -74,7 +74,7 @@ Users expect Mobile Apps to be faster and easier to use than Web Apps so that’
 ##
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambuilder00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSampMobile&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 <a href="#" title="Go to Source">
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=JasonSampMobile&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
